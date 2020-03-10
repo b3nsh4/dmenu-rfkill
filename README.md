@@ -9,5 +9,5 @@ I haven't found a patch for it.
 If you need sudo for running rfkill, add your user to /etc/sudoers at
 NOPASSWD . else , feed password to sudo via stdin
 
-
+![](https://github.com/bensh4/dmenu-rfkill/blob/master/dmenu-rfkill-preview.gif)
 
